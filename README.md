@@ -3,4 +3,3 @@ My attempt to clone/recreate the look and layout of this [picture](https://cdn.s
 What I learned:
 - How to use CSS to replicate certain look.
 - And more specifically how to use flexbox to position elements. I learned to love flexbox.
-# odin-langing-page
