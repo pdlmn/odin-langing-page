@@ -1,4 +1,4 @@
-My attempt to clone/recreate the look and layout of this [picture](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) as a reference.
+My attempt to clone/recreate the look and layout of this [picture](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png) that was used as a reference.
 
 What I learned:
 - How to use CSS to replicate certain look.
